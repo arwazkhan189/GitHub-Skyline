@@ -1,2 +1,2 @@
 # GitHub-Skyline
-A Github feature
+**A 3D model of your GitHub contribution graph**
